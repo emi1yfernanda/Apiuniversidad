@@ -1,0 +1,53 @@
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\appsettings.json
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Apiuniversidade.exe
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Apiuniversidade.deps.json
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Apiuniversidade.runtimeconfig.json
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Apiuniversidade.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Apiuniversidade.pdb
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.csproj.AssemblyReference.cache
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.AssemblyInfoInputs.cache
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.AssemblyInfo.cs
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.csproj.CoreCompileInputs.cache
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\staticwebassets\msbuild.Apiuniversidade.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\staticwebassets\msbuild.build.Apiuniversidade.props
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Apiuniversidade.props
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Apiuniversidade.props
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\scopedcss\bundle\Apiuniversidade.styles.css
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.csproj.CopyComplete
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\refint\Apiuniversidade.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.pdb
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.genruntimeconfig.cache
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\obj\Debug\net7.0\ref\Apiuniversidade.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Humanizer.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Npgsql.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Users\20201034010021\Desktop\Emily Fernanda\Apiuniversidade\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\20201034010021\Downloads\Apiuniversidade\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.csproj.AssemblyReference.cache
+C:\Users\20201034010021\Downloads\Apiuniversidade\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20201034010021\Downloads\Apiuniversidade\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.AssemblyInfoInputs.cache
+C:\Users\20201034010021\Downloads\Apiuniversidade\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.AssemblyInfo.cs
+C:\Users\20201034010021\Downloads\Apiuniversidade\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.csproj.CoreCompileInputs.cache
+C:\Users\20201034010021\Downloads\Apiuniversidade\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\20201034010021\Downloads\Apiuniversidade\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\20201034010021\Downloads\Apiuniversidade\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.dll
+C:\Users\20201034010021\Downloads\Apiuniversidade\Apiuniversidade\obj\Debug\net7.0\refint\Apiuniversidade.dll
+C:\Users\20201034010021\Downloads\Apiuniversidade\Apiuniversidade\obj\Debug\net7.0\Apiuniversidade.pdb
