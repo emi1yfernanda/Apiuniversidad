@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WpDUiW2QuE7w1xCudmMwahce07NavRpy2B0ZTEk2/9IZzKmedyYHYNFj9v9O8hMEWavK2DMh/cxRTRLmL450YQ==",
+  "dgSpecHash": "M66BKWZj5koKS4k3dmam4/CCdnt4+kNfKfJ0ikpW4ceMvaWpX8VDwuavp9jMnT5PTGZsGr0VTAifg1MGhuQ3Bw==",
   "success": false,
   "projectFilePath": "C:\\Users\\20201034010021\\Downloads\\Apiuniversidade\\Apiuniversidade\\Apiuniversidade.csproj",
   "expectedPackageFiles": [
@@ -32,7 +32,11 @@
     "C:\\Users\\20201034010021\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\20201034010021\\.nuget\\packages\\system.collections.immutable\\7.0.0-preview.3.22175.4\\system.collections.immutable.7.0.0-preview.3.22175.4.nupkg.sha512",
     "C:\\Users\\20201034010021\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.0-preview.3.22175.4\\system.diagnostics.diagnosticsource.7.0.0-preview.3.22175.4.nupkg.sha512",
-    "C:\\Users\\20201034010021\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\20201034010021\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\20201034010021\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\20201034010021\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\20201034010021\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\20201034010021\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": [
     {
@@ -58,7 +62,7 @@
     {
       "code": "NU1102",
       "level": "Error",
-      "message": "Não é possível encontrar o pacote Microsoft.AspNetCore.Identity com a versão (>= 7.0.0)\r\n  - Encontradas 38 versões em nuget.org [Versão mais próxima: 2.2.0]",
+      "message": "Não é possível encontrar o pacote Microsoft.AspNetCore.Identity com a versão (>= 7.0.14)\r\n  - Encontradas 38 versões em nuget.org [Versão mais próxima: 2.2.0]\r\n  - Encontradas 0 versões em Microsoft Visual Studio Offline Packages",
       "libraryId": "Microsoft.AspNetCore.Identity",
       "targetGraphs": [
         "net7.0"

@@ -12,7 +12,7 @@ public class ApiuniversidadeContext : IdentityDbContext
     
     {
         public ApiuniversidadeContext(DbContextOptions options) : base(options){}
-        // DbContextOptions é uma clase auxiliar para tranportar informações de configurações de acesso ao banco.
+        // DbContextOptions é uma clase auxiliar para tranportar informações de configurações de acesso ao banco...
         
         public DbSet<Aluno>? Aluno {  get; set; }
         public DbSet<Curso>? Curso {  get; set; }
