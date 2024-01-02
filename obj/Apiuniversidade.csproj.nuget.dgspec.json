@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20201034010021\\Downloads\\Apiuniversidade\\Apiuniversidade\\Apiuniversidade.csproj": {}
+    "C:\\Users\\Emilly\\OneDrive - Instituto Federal do Rio Grande do Norte\\apiuniversidade\\Apiuniversidad\\Apiuniversidade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20201034010021\\Downloads\\Apiuniversidade\\Apiuniversidade\\Apiuniversidade.csproj": {
+    "C:\\Users\\Emilly\\OneDrive - Instituto Federal do Rio Grande do Norte\\apiuniversidade\\Apiuniversidad\\Apiuniversidade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20201034010021\\Downloads\\Apiuniversidade\\Apiuniversidade\\Apiuniversidade.csproj",
+        "projectUniqueName": "C:\\Users\\Emilly\\OneDrive - Instituto Federal do Rio Grande do Norte\\apiuniversidade\\Apiuniversidad\\Apiuniversidade.csproj",
         "projectName": "Apiuniversidade",
-        "projectPath": "C:\\Users\\20201034010021\\Downloads\\Apiuniversidade\\Apiuniversidade\\Apiuniversidade.csproj",
-        "packagesPath": "C:\\Users\\20201034010021\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20201034010021\\Downloads\\Apiuniversidade\\Apiuniversidade\\obj\\",
+        "projectPath": "C:\\Users\\Emilly\\OneDrive - Instituto Federal do Rio Grande do Norte\\apiuniversidade\\Apiuniversidad\\Apiuniversidade.csproj",
+        "packagesPath": "C:\\Users\\Emilly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emilly\\OneDrive - Instituto Federal do Rio Grande do Norte\\apiuniversidade\\Apiuniversidad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\20201034010021\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Emilly\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,24 +72,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -100,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
